@@ -13,6 +13,11 @@
 .\gitlab-runner.exe start
  ```
  ![Image](pics/image2.png)
+
+ ![Image](pics/image7.png)
+ 
+ ![Image](pics/image8.png)
+
  * Go to gitlab in the particular group with owner access click on the build section in the runners create a new group runner.
  [Refer here](https://docs.gitlab.com/ee/ci/runners/runners_scope.html#group-runners)
  ![Image](pics/image3.png)
