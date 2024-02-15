@@ -15,7 +15,7 @@
  ![Image](pics/image2.png)
 
  ![Image](pics/image7.png)
- 
+
  ![Image](pics/image8.png)
 
  * Go to gitlab in the particular group with owner access click on the build section in the runners create a new group runner.
@@ -34,3 +34,14 @@ Note: Everytime token generates with new runner creation.
 
 ![Image](pics/image6.png)
 
+### PROJECT_RUNNERS: This can be created by owner, maintainer.
+* Installation is same as the Group runner. 
+* But,for specific project if we need runner we need to create project runner.
+
+![Image](pics/image9.png)
+
+![Image](pics/image10.png)
+
+### SHARED_RUNNERS: 
+* This runners are present as default in gitlab and in these execute with docker image as preinstalled in it.
+ 
